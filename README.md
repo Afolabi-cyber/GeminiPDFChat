@@ -29,5 +29,5 @@ Follow these steps to set up and run the application:
 1. **Clone the Repository**
 
    ```bash
-   git clone [URL to your repository]
-   cd [repository-directory]
+   git clone https://github.com/Afolabi-cyber/GeminiPDFChat/
+   cd https://github.com/Afolabi-cyber/GeminiPDFChat/
